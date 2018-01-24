@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+
+=======
+# sdc-lanelines : Toan Luong
+Term 1 Project 1 : Finding Lane Lines
+
 # **Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
@@ -54,8 +58,3 @@ A browser window will appear showing the contents of the current directory.  Cli
 
 ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
-
-=======
-# sdc-lanelines
-Term 1 Project 1 : Finding Lane Lines
->>>>>>> a666693778437caac09a4b1942f06d18b6d5d0e4
